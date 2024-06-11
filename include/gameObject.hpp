@@ -1,10 +1,18 @@
 #include <SFML/Graphics.hpp>
+#include <algorithm>
+#include <iostream>
+#include <list>
+
 
 class GameObject{
     public:
+        static std::list<GameObject*> gameObjects;
+        
         sf::Vector2f position = sf::Vector2f(0,0); 
         
         float rotation = 0; 
+
+        GameObject();
 
         virtual void init();
 
@@ -12,4 +20,7 @@ class GameObject{
 
         virtual void render();
 
+        void initGameObjects();
+
+        static void addGameObject(GameObject gameObject);
 };

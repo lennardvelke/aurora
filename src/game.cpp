@@ -10,12 +10,12 @@ int Game::initGame(){
     
     printf("Game successfully created! \n");
     
+    Player player;
     return 0;
 }
 
 int Game::updateGame()
 {
-    Player player;
 
     sf::Event event;
         while (window.pollEvent(event))

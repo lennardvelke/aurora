@@ -24,6 +24,8 @@ CMakeFiles/main.dir/src/game.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Graphics.hpp \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Window.hpp \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/System.hpp \
@@ -46,6 +48,7 @@ CMakeFiles/main.dir/src/game.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar2.h \
  /usr/include/c++/11/exception /usr/include/c++/11/bits/exception.h \
  /usr/include/c++/11/bits/exception_ptr.h \
  /usr/include/c++/11/bits/exception_defines.h \
@@ -131,7 +134,10 @@ CMakeFiles/main.dir/src/game.cpp.o: \
  /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/x86_64-linux-gnu/bits/select.h \
  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
- /usr/include/alloca.h /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
  /usr/include/c++/11/bits/std_abs.h /usr/include/c++/11/cstdio \
  /usr/include/c++/11/cerrno /usr/include/errno.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
@@ -261,4 +267,9 @@ CMakeFiles/main.dir/src/game.cpp.o: \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
  /home/lenny/projects/aurora/src/../include/game.hpp \
  /home/lenny/projects/aurora/include/player.hpp \
- /home/lenny/projects/aurora/include/gameObject.hpp
+ /home/lenny/projects/aurora/include/gameObject.hpp \
+ /usr/include/c++/11/iostream /usr/include/c++/11/istream \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/list \
+ /usr/include/c++/11/bits/stl_list.h \
+ /usr/include/c++/11/bits/allocated_ptr.h \
+ /usr/include/c++/11/bits/list.tcc

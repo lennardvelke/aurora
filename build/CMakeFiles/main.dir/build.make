@@ -140,12 +140,12 @@ bin/main: CMakeFiles/main.dir/src/main.cpp.o
 bin/main: CMakeFiles/main.dir/src/objects/gameObject.cpp.o
 bin/main: CMakeFiles/main.dir/src/objects/player/player.cpp.o
 bin/main: CMakeFiles/main.dir/build.make
-bin/main: _deps/sfml-build/lib/libsfml-graphics-s-d.a
-bin/main: _deps/sfml-build/lib/libsfml-window-s-d.a
+bin/main: _deps/sfml-build/lib/libsfml-graphics-s.a
+bin/main: _deps/sfml-build/lib/libsfml-window-s.a
 bin/main: /usr/lib/x86_64-linux-gnu/libX11.so
 bin/main: /usr/lib/x86_64-linux-gnu/libXrandr.so
 bin/main: /usr/lib/x86_64-linux-gnu/libXcursor.so
-bin/main: _deps/sfml-build/lib/libsfml-system-s-d.a
+bin/main: _deps/sfml-build/lib/libsfml-system-s.a
 bin/main: /usr/lib/x86_64-linux-gnu/libGL.so
 bin/main: /usr/lib/x86_64-linux-gnu/libudev.so
 bin/main: /usr/lib/x86_64-linux-gnu/libfreetype.so

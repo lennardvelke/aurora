@@ -6,7 +6,7 @@ CXX_DEFINES = -DSFML_STATIC -DSTBI_FAILURE_USERMSG
 
 CXX_INCLUDES = -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/src -isystem /home/lenny/projects/aurora/build/_deps/sfml-src/extlibs/headers/stb_image -isystem /home/lenny/projects/aurora/build/_deps/sfml-src/extlibs/headers/glad/include -isystem /usr/include/freetype2
 
-CXX_FLAGS = -g -fvisibility=hidden
+CXX_FLAGS = -O3 -DNDEBUG -fvisibility=hidden
 
 # Custom flags: _deps/sfml-build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o_FLAGS =  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches
 
