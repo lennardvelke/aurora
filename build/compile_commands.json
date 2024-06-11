@@ -1,8 +1,23 @@
 [
 {
   "directory": "/home/lenny/projects/aurora/build",
-  "command": "/usr/bin/g++ -DSFML_STATIC -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/lenny/projects/aurora/src/main.cpp",
+  "command": "/usr/bin/g++ -DSFML_STATIC -I/home/lenny/projects/aurora/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -g -o CMakeFiles/main.dir/src/game.cpp.o -c /home/lenny/projects/aurora/src/game.cpp",
+  "file": "/home/lenny/projects/aurora/src/game.cpp"
+},
+{
+  "directory": "/home/lenny/projects/aurora/build",
+  "command": "/usr/bin/g++ -DSFML_STATIC -I/home/lenny/projects/aurora/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/lenny/projects/aurora/src/main.cpp",
   "file": "/home/lenny/projects/aurora/src/main.cpp"
+},
+{
+  "directory": "/home/lenny/projects/aurora/build",
+  "command": "/usr/bin/g++ -DSFML_STATIC -I/home/lenny/projects/aurora/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -g -o CMakeFiles/main.dir/src/objects/gameObject.cpp.o -c /home/lenny/projects/aurora/src/objects/gameObject.cpp",
+  "file": "/home/lenny/projects/aurora/src/objects/gameObject.cpp"
+},
+{
+  "directory": "/home/lenny/projects/aurora/build",
+  "command": "/usr/bin/g++ -DSFML_STATIC -I/home/lenny/projects/aurora/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -g -o CMakeFiles/main.dir/src/objects/player/player.cpp.o -c /home/lenny/projects/aurora/src/objects/player/player.cpp",
+  "file": "/home/lenny/projects/aurora/src/objects/player/player.cpp"
 },
 {
   "directory": "/home/lenny/projects/aurora/build/_deps/sfml-build/src/SFML/System",

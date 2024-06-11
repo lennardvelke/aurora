@@ -69,10 +69,24 @@ include CMakeFiles/main.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main.dir/flags.make
 
+CMakeFiles/main.dir/src/game.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/game.cpp.o: ../src/game.cpp
+CMakeFiles/main.dir/src/game.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/game.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/game.cpp.o -MF CMakeFiles/main.dir/src/game.cpp.o.d -o CMakeFiles/main.dir/src/game.cpp.o -c /home/lenny/projects/aurora/src/game.cpp
+
+CMakeFiles/main.dir/src/game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/game.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lenny/projects/aurora/src/game.cpp > CMakeFiles/main.dir/src/game.cpp.i
+
+CMakeFiles/main.dir/src/game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/game.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lenny/projects/aurora/src/game.cpp -o CMakeFiles/main.dir/src/game.cpp.s
+
 CMakeFiles/main.dir/src/main.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/main.dir/src/main.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/main.cpp.o"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.o -MF CMakeFiles/main.dir/src/main.cpp.o.d -o CMakeFiles/main.dir/src/main.cpp.o -c /home/lenny/projects/aurora/src/main.cpp
 
 CMakeFiles/main.dir/src/main.cpp.i: cmake_force
@@ -83,14 +97,48 @@ CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
 	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lenny/projects/aurora/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
 
+CMakeFiles/main.dir/src/objects/gameObject.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/objects/gameObject.cpp.o: ../src/objects/gameObject.cpp
+CMakeFiles/main.dir/src/objects/gameObject.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/objects/gameObject.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/objects/gameObject.cpp.o -MF CMakeFiles/main.dir/src/objects/gameObject.cpp.o.d -o CMakeFiles/main.dir/src/objects/gameObject.cpp.o -c /home/lenny/projects/aurora/src/objects/gameObject.cpp
+
+CMakeFiles/main.dir/src/objects/gameObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/objects/gameObject.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lenny/projects/aurora/src/objects/gameObject.cpp > CMakeFiles/main.dir/src/objects/gameObject.cpp.i
+
+CMakeFiles/main.dir/src/objects/gameObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/objects/gameObject.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lenny/projects/aurora/src/objects/gameObject.cpp -o CMakeFiles/main.dir/src/objects/gameObject.cpp.s
+
+CMakeFiles/main.dir/src/objects/player/player.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/src/objects/player/player.cpp.o: ../src/objects/player/player.cpp
+CMakeFiles/main.dir/src/objects/player/player.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/objects/player/player.cpp.o"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/objects/player/player.cpp.o -MF CMakeFiles/main.dir/src/objects/player/player.cpp.o.d -o CMakeFiles/main.dir/src/objects/player/player.cpp.o -c /home/lenny/projects/aurora/src/objects/player/player.cpp
+
+CMakeFiles/main.dir/src/objects/player/player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/objects/player/player.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lenny/projects/aurora/src/objects/player/player.cpp > CMakeFiles/main.dir/src/objects/player/player.cpp.i
+
+CMakeFiles/main.dir/src/objects/player/player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/objects/player/player.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lenny/projects/aurora/src/objects/player/player.cpp -o CMakeFiles/main.dir/src/objects/player/player.cpp.s
+
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/src/main.cpp.o"
+"CMakeFiles/main.dir/src/game.cpp.o" \
+"CMakeFiles/main.dir/src/main.cpp.o" \
+"CMakeFiles/main.dir/src/objects/gameObject.cpp.o" \
+"CMakeFiles/main.dir/src/objects/player/player.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
+bin/main: CMakeFiles/main.dir/src/game.cpp.o
 bin/main: CMakeFiles/main.dir/src/main.cpp.o
+bin/main: CMakeFiles/main.dir/src/objects/gameObject.cpp.o
+bin/main: CMakeFiles/main.dir/src/objects/player/player.cpp.o
 bin/main: CMakeFiles/main.dir/build.make
 bin/main: _deps/sfml-build/lib/libsfml-graphics-s-d.a
 bin/main: _deps/sfml-build/lib/libsfml-window-s-d.a
@@ -102,7 +150,7 @@ bin/main: /usr/lib/x86_64-linux-gnu/libGL.so
 bin/main: /usr/lib/x86_64-linux-gnu/libudev.so
 bin/main: /usr/lib/x86_64-linux-gnu/libfreetype.so
 bin/main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable bin/main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable bin/main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

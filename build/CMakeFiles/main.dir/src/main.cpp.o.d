@@ -258,22 +258,4 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Graphics/Sprite.hpp \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Graphics/Text.hpp \
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Graphics/VertexBuffer.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/InputSoundFile.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/Export.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/Listener.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/Music.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundStream.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundSource.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/AlResource.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/OutputSoundFile.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/Sound.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundBuffer.hpp \
- /usr/include/c++/11/set /usr/include/c++/11/bits/stl_set.h \
- /usr/include/c++/11/bits/stl_multiset.h \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundBufferRecorder.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundRecorder.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundFileFactory.inl \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundFileReader.hpp \
- /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/Audio/SoundFileWriter.hpp
+ /home/lenny/projects/aurora/src/../include/game.hpp

@@ -259,6 +259,30 @@ sfml-audio/fast:
 	$(MAKE) $(MAKESILENT) -f _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/build.make _deps/sfml-build/src/SFML/Audio/CMakeFiles/sfml-audio.dir/build
 .PHONY : sfml-audio/fast
 
+src/game.o: src/game.cpp.o
+.PHONY : src/game.o
+
+# target to build an object file
+src/game.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/game.cpp.o
+.PHONY : src/game.cpp.o
+
+src/game.i: src/game.cpp.i
+.PHONY : src/game.i
+
+# target to preprocess a source file
+src/game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/game.cpp.i
+.PHONY : src/game.cpp.i
+
+src/game.s: src/game.cpp.s
+.PHONY : src/game.s
+
+# target to generate assembly for a file
+src/game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/game.cpp.s
+.PHONY : src/game.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -283,6 +307,54 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/objects/gameObject.o: src/objects/gameObject.cpp.o
+.PHONY : src/objects/gameObject.o
+
+# target to build an object file
+src/objects/gameObject.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/objects/gameObject.cpp.o
+.PHONY : src/objects/gameObject.cpp.o
+
+src/objects/gameObject.i: src/objects/gameObject.cpp.i
+.PHONY : src/objects/gameObject.i
+
+# target to preprocess a source file
+src/objects/gameObject.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/objects/gameObject.cpp.i
+.PHONY : src/objects/gameObject.cpp.i
+
+src/objects/gameObject.s: src/objects/gameObject.cpp.s
+.PHONY : src/objects/gameObject.s
+
+# target to generate assembly for a file
+src/objects/gameObject.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/objects/gameObject.cpp.s
+.PHONY : src/objects/gameObject.cpp.s
+
+src/objects/player/player.o: src/objects/player/player.cpp.o
+.PHONY : src/objects/player/player.o
+
+# target to build an object file
+src/objects/player/player.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/objects/player/player.cpp.o
+.PHONY : src/objects/player/player.cpp.o
+
+src/objects/player/player.i: src/objects/player/player.cpp.i
+.PHONY : src/objects/player/player.i
+
+# target to preprocess a source file
+src/objects/player/player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/objects/player/player.cpp.i
+.PHONY : src/objects/player/player.cpp.i
+
+src/objects/player/player.s: src/objects/player/player.cpp.s
+.PHONY : src/objects/player/player.s
+
+# target to generate assembly for a file
+src/objects/player/player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/src/objects/player/player.cpp.s
+.PHONY : src/objects/player/player.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -303,9 +375,18 @@ help:
 	@echo "... sfml-network"
 	@echo "... sfml-system"
 	@echo "... sfml-window"
+	@echo "... src/game.o"
+	@echo "... src/game.i"
+	@echo "... src/game.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/objects/gameObject.o"
+	@echo "... src/objects/gameObject.i"
+	@echo "... src/objects/gameObject.s"
+	@echo "... src/objects/player/player.o"
+	@echo "... src/objects/player/player.i"
+	@echo "... src/objects/player/player.s"
 .PHONY : help
 
 

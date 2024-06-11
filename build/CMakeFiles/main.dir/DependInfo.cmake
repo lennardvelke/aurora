@@ -8,7 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/lenny/projects/aurora/src/game.cpp" "CMakeFiles/main.dir/src/game.cpp.o" "gcc" "CMakeFiles/main.dir/src/game.cpp.o.d"
   "/home/lenny/projects/aurora/src/main.cpp" "CMakeFiles/main.dir/src/main.cpp.o" "gcc" "CMakeFiles/main.dir/src/main.cpp.o.d"
+  "/home/lenny/projects/aurora/src/objects/gameObject.cpp" "CMakeFiles/main.dir/src/objects/gameObject.cpp.o" "gcc" "CMakeFiles/main.dir/src/objects/gameObject.cpp.o.d"
+  "/home/lenny/projects/aurora/src/objects/player/player.cpp" "CMakeFiles/main.dir/src/objects/player/player.cpp.o" "gcc" "CMakeFiles/main.dir/src/objects/player/player.cpp.o.d"
   )
 
 # Targets to which this target links.

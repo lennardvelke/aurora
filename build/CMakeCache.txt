@@ -33,6 +33,10 @@ CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
 
+//For backwards compatibility, what version of CMake commands and
+// syntax should this version of CMake try to support.
+CMAKE_BACKWARDS_COMPATIBILITY:STRING=2.4
+
 //Choose the type of build (Debug or Release)
 CMAKE_BUILD_TYPE:STRING=Debug
 
@@ -317,6 +321,9 @@ CPACK_SOURCE_TZ:BOOL=ON
 //Enable to build ZIP source packages
 CPACK_SOURCE_ZIP:BOOL=OFF
 
+//Single output directory for building all executables.
+EXECUTABLE_OUTPUT_PATH:PATH=
+
 //Directory under which to collect all populated content
 FETCHCONTENT_BASE_DIR:PATH=/home/lenny/projects/aurora/build/_deps
 
@@ -354,6 +361,9 @@ FREETYPE_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/libfreetype.so
 
 //Git command line client
 GIT_EXECUTABLE:FILEPATH=/usr/bin/git
+
+//Single output directory for building all libraries.
+LIBRARY_OUTPUT_PATH:PATH=
 
 //Path to a file.
 OGG_INCLUDE_DIR:PATH=/usr/include
@@ -418,9 +428,6 @@ SFML_BUILD_TEST_SUITE:BOOL=FALSE
 //TRUE to build SFML's Window module. This setting is ignored,
 // if the graphics module is built.
 SFML_BUILD_WINDOW:BOOL=TRUE
-
-//The directory containing a CMake configuration file for SFML.
-SFML_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/SFML
 
 //TRUE to automatically install pkg-config files so other projects
 // can find SFML
@@ -696,6 +703,9 @@ X11_xkbfile_INCLUDE_PATH:PATH=X11_xkbfile_INCLUDE_PATH-NOTFOUND
 
 //Path to a library.
 X11_xkbfile_LIB:FILEPATH=X11_xkbfile_LIB-NOTFOUND
+
+//Dependencies for the target
+main_LIB_DEPENDS:STATIC=general;sfml-graphics;
 
 //Dependencies for the target
 sfml-audio_LIB_DEPENDS:STATIC=general;sfml-system;

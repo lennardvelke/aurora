@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = -DSFML_STATIC
 
-CXX_INCLUDES = -I/home/lenny/projects/aurora/build/_deps/sfml-src/include
+CXX_INCLUDES = -I/home/lenny/projects/aurora/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/include
 
 CXX_FLAGS = -g
 
