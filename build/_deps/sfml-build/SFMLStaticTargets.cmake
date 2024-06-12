@@ -148,39 +148,39 @@ set_target_properties(sfml-audio PROPERTIES
   INTERFACE_LINK_LIBRARIES "\$<LINK_ONLY:OpenAL>;sfml-system;\$<LINK_ONLY:VORBIS>;\$<LINK_ONLY:FLAC>"
 )
 
-# Import target "sfml-system" for configuration "Release"
-set_property(TARGET sfml-system APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
+# Import target "sfml-system" for configuration "Debug"
+set_property(TARGET sfml-system APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-system PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
-  IMPORTED_LOCATION_RELEASE "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-system-s.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
+  IMPORTED_LOCATION_DEBUG "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-system-s-d.a"
   )
 
-# Import target "sfml-window" for configuration "Release"
-set_property(TARGET sfml-window APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
+# Import target "sfml-window" for configuration "Debug"
+set_property(TARGET sfml-window APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-window PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
-  IMPORTED_LOCATION_RELEASE "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-window-s.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
+  IMPORTED_LOCATION_DEBUG "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-window-s-d.a"
   )
 
-# Import target "sfml-network" for configuration "Release"
-set_property(TARGET sfml-network APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
+# Import target "sfml-network" for configuration "Debug"
+set_property(TARGET sfml-network APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-network PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
-  IMPORTED_LOCATION_RELEASE "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-network-s.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
+  IMPORTED_LOCATION_DEBUG "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-network-s-d.a"
   )
 
-# Import target "sfml-graphics" for configuration "Release"
-set_property(TARGET sfml-graphics APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
+# Import target "sfml-graphics" for configuration "Debug"
+set_property(TARGET sfml-graphics APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-graphics PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
-  IMPORTED_LOCATION_RELEASE "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-graphics-s.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
+  IMPORTED_LOCATION_DEBUG "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-graphics-s-d.a"
   )
 
-# Import target "sfml-audio" for configuration "Release"
-set_property(TARGET sfml-audio APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
+# Import target "sfml-audio" for configuration "Debug"
+set_property(TARGET sfml-audio APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(sfml-audio PROPERTIES
-  IMPORTED_LINK_INTERFACE_LANGUAGES_RELEASE "CXX"
-  IMPORTED_LOCATION_RELEASE "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-audio-s.a"
+  IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "CXX"
+  IMPORTED_LOCATION_DEBUG "/home/lenny/projects/aurora/build/_deps/sfml-build/lib/libsfml-audio-s-d.a"
   )
 
 # This file does not depend on other imported targets which have

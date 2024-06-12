@@ -2,5 +2,5 @@
 #include <gameObject.hpp>
 
 class Player : GameObject {
-     
+    void init();
 };

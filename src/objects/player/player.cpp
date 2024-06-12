@@ -1,6 +1,7 @@
 #include "player.hpp"
 
-
-int update(){
-    
-};
+void Player::init()
+{
+    printf("Player created! \n");
+    position = sf::Vector2f(100,100);
+}

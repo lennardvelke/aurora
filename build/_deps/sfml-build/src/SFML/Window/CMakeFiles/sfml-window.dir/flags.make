@@ -6,7 +6,7 @@ CXX_DEFINES = -DSFML_STATIC
 
 CXX_INCLUDES = -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/src -I/home/lenny/projects/aurora/build/_deps/sfml-src/extlibs/headers/vulkan -isystem /home/lenny/projects/aurora/build/_deps/sfml-src/extlibs/headers/glad/include
 
-CXX_FLAGS = -O3 -DNDEBUG -fvisibility=hidden
+CXX_FLAGS = -g -fvisibility=hidden
 
 # Custom flags: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o_FLAGS =  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches
 

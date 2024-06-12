@@ -6,7 +6,7 @@ CXX_DEFINES = -DSFML_STATIC
 
 CXX_INCLUDES = -I/home/lenny/projects/aurora/build/_deps/sfml-src/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/src
 
-CXX_FLAGS = -O3 -DNDEBUG -fvisibility=hidden
+CXX_FLAGS = -g -fvisibility=hidden
 
 # Custom flags: _deps/sfml-build/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.o_FLAGS =  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches
 

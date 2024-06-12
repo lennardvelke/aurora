@@ -6,5 +6,5 @@ CXX_DEFINES = -DSFML_STATIC
 
 CXX_INCLUDES = -I/home/lenny/projects/aurora/include -I/home/lenny/projects/aurora/build/_deps/sfml-src/include
 
-CXX_FLAGS = -O3 -DNDEBUG
+CXX_FLAGS = -g
 

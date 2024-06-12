@@ -28,8 +28,6 @@ CMakeFiles/main.dir/src/game.cpp.o: ../src/game.cpp \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/floatn.h \
   /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   _deps/sfml-src/include/SFML/Graphics.hpp \
   _deps/sfml-src/include/SFML/Window.hpp \
   _deps/sfml-src/include/SFML/System.hpp \
@@ -55,7 +53,6 @@ CMakeFiles/main.dir/src/game.cpp.o: ../src/game.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/exception \
   /usr/include/c++/11/bits/exception.h \
   /usr/include/c++/11/bits/exception_ptr.h \
@@ -158,11 +155,8 @@ CMakeFiles/main.dir/src/game.cpp.o: ../src/game.cpp \
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/c++/11/cerrno \
@@ -361,7 +355,6 @@ CMakeFiles/main.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/exception \
   /usr/include/c++/11/bits/exception.h \
   /usr/include/c++/11/bits/exception_ptr.h \
@@ -467,11 +460,8 @@ CMakeFiles/main.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
@@ -480,8 +470,6 @@ CMakeFiles/main.dir/src/main.cpp.o: ../src/main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/11/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -670,7 +658,6 @@ CMakeFiles/main.dir/src/objects/gameObject.cpp.o: ../src/objects/gameObject.cpp 
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/exception \
   /usr/include/c++/11/bits/exception.h \
   /usr/include/c++/11/bits/exception_ptr.h \
@@ -776,11 +763,8 @@ CMakeFiles/main.dir/src/objects/gameObject.cpp.o: ../src/objects/gameObject.cpp 
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
@@ -789,8 +773,6 @@ CMakeFiles/main.dir/src/objects/gameObject.cpp.o: ../src/objects/gameObject.cpp 
   /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/11/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -939,7 +921,8 @@ CMakeFiles/main.dir/src/objects/gameObject.cpp.o: ../src/objects/gameObject.cpp 
   /usr/include/c++/11/list \
   /usr/include/c++/11/bits/stl_list.h \
   /usr/include/c++/11/bits/allocated_ptr.h \
-  /usr/include/c++/11/bits/list.tcc
+  /usr/include/c++/11/bits/list.tcc \
+  ../include/game.hpp
 
 CMakeFiles/main.dir/src/objects/player/player.cpp.o: ../src/objects/player/player.cpp \
   /usr/include/stdc-predef.h \
@@ -985,7 +968,6 @@ CMakeFiles/main.dir/src/objects/player/player.cpp.o: ../src/objects/player/playe
   /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
   /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar2.h \
   /usr/include/c++/11/exception \
   /usr/include/c++/11/bits/exception.h \
   /usr/include/c++/11/bits/exception_ptr.h \
@@ -1091,11 +1073,8 @@ CMakeFiles/main.dir/src/objects/player/player.cpp.o: ../src/objects/player/playe
   /usr/include/x86_64-linux-gnu/sys/select.h \
   /usr/include/x86_64-linux-gnu/bits/select.h \
   /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/select2.h \
   /usr/include/alloca.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
   /usr/include/c++/11/bits/std_abs.h \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
@@ -1104,8 +1083,6 @@ CMakeFiles/main.dir/src/objects/player/player.cpp.o: ../src/objects/player/playe
   /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
   /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio2.h \
   /usr/include/c++/11/cerrno \
   /usr/include/errno.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h \
@@ -1336,9 +1313,7 @@ _deps/sfml-src/include/SFML/Window/Window.hpp:
 
 _deps/sfml-src/include/SFML/Window/Sensor.hpp:
 
-_deps/sfml-src/include/SFML/Window/Mouse.hpp:
-
-_deps/sfml-src/include/SFML/Window/Joystick.hpp:
+/usr/include/c++/11/bits/locale_classes.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
@@ -1347,6 +1322,8 @@ _deps/sfml-src/include/SFML/Window/Joystick.hpp:
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/include/c++/11/ext/new_allocator.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
@@ -1371,10 +1348,6 @@ _deps/sfml-src/include/SFML/Window/Joystick.hpp:
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
 /usr/include/c++/11/bits/basic_string.h:
-
-_deps/sfml-src/include/SFML/Window/Cursor.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/locale.h:
 
 /usr/include/locale.h:
 
@@ -1416,10 +1389,6 @@ _deps/sfml-src/include/SFML/Graphics/RenderTexture.hpp:
 
 /usr/include/c++/11/bits/functexcept.h:
 
-_deps/sfml-src/include/SFML/Window/Event.hpp:
-
-/usr/include/c++/11/streambuf:
-
 _deps/sfml-src/include/SFML/Graphics/Export.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h:
@@ -1428,9 +1397,11 @@ _deps/sfml-src/include/SFML/Graphics/Export.hpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
 
-/usr/include/c++/11/pstl/pstl_config.h:
+/usr/include/c++/11/cwchar:
 
 /usr/include/c++/11/bits/allocator.h:
+
+/usr/include/c++/11/pstl/pstl_config.h:
 
 /usr/include/c++/11/bits/char_traits.h:
 
@@ -1450,11 +1421,11 @@ _deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
 
-/usr/include/c++/11/bits/move.h:
+_deps/sfml-src/include/SFML/Graphics.hpp:
 
-/usr/include/c++/11/bits/hash_bytes.h:
+/usr/include/c++/11/string:
 
-/usr/include/c++/11/bits/string_view.tcc:
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
@@ -1492,6 +1463,8 @@ _deps/sfml-src/include/SFML/Graphics/Color.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
+/usr/include/c++/11/bits/stringfwd.h:
+
 /usr/include/c++/11/ext/numeric_traits.h:
 
 _deps/sfml-src/include/SFML/Window/Context.hpp:
@@ -1507,10 +1480,6 @@ _deps/sfml-src/include/SFML/Window/Context.hpp:
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
 
 /usr/include/c++/11/cstdlib:
-
-/usr/include/c++/11/bits/stringfwd.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdio.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
@@ -1544,21 +1513,9 @@ _deps/sfml-src/include/SFML/System/Time.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdlib.h:
-
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
-
-/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdio2.h:
-
-_deps/sfml-src/include/SFML/Window/WindowHandle.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
-
-/usr/include/c++/11/bits/locale_facets.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
@@ -1578,15 +1535,7 @@ _deps/sfml-src/include/SFML/Window/WindowBase.hpp:
 
 _deps/sfml-src/include/SFML/System.hpp:
 
-/usr/include/c++/11/cwchar:
-
-/usr/include/x86_64-linux-gnu/bits/select2.h:
-
 _deps/sfml-src/include/SFML/System/Lock.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
-
-_deps/sfml-src/include/SFML/Graphics.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
@@ -1596,13 +1545,21 @@ _deps/sfml-src/include/SFML/Graphics.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
+/usr/include/c++/11/streambuf:
+
+_deps/sfml-src/include/SFML/Window/Event.hpp:
+
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h:
 
 _deps/sfml-src/include/SFML/System/Clock.hpp:
 
-/usr/include/c++/11/typeinfo:
+_deps/sfml-src/include/SFML/Window/WindowStyle.hpp:
 
-/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+/usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/usr/include/c++/11/bits/stl_bvector.h:
 
 /usr/include/c++/11/iostream:
 
@@ -1615,18 +1572,6 @@ _deps/sfml-src/include/SFML/Graphics/Transformable.hpp:
 _deps/sfml-src/include/SFML/System/Export.hpp:
 
 /usr/include/c++/11/bits/functional_hash.h:
-
-/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
-
-../src/game.cpp:
-
-/usr/include/c++/11/bits/cxxabi_init_exception.h:
-
-/usr/include/wchar.h:
-
-/usr/include/x86_64-linux-gnu/bits/endian.h:
-
-_deps/sfml-src/include/SFML/System/Err.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
 
@@ -1642,11 +1587,11 @@ _deps/sfml-src/include/SFML/System/Err.hpp:
 
 /usr/include/c++/11/bits/nested_exception.h:
 
-/usr/include/c++/11/string:
+/usr/include/wchar.h:
 
-/usr/include/x86_64-linux-gnu/bits/wchar2.h:
+../src/game.cpp:
 
-_deps/sfml-src/include/SFML/Window/GlResource.hpp:
+/usr/include/c++/11/bits/cxxabi_init_exception.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
@@ -1660,7 +1605,21 @@ _deps/sfml-src/include/SFML/Window/GlResource.hpp:
 
 /usr/include/c++/11/bits/exception_defines.h:
 
-/usr/include/c++/11/bits/locale_classes.h:
+/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+_deps/sfml-src/include/SFML/System/Err.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
+/usr/include/c++/11/typeinfo:
+
+/usr/include/c++/11/bits/move.h:
+
+/usr/include/c++/11/bits/hash_bytes.h:
+
+/usr/include/c++/11/bits/string_view.tcc:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
 
@@ -1736,20 +1695,6 @@ _deps/sfml-src/include/SFML/Graphics/Transform.hpp:
 
 /usr/include/alloca.h:
 
-_deps/sfml-src/include/SFML/Window/WindowStyle.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
-
-/usr/include/c++/11/bits/stl_bvector.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
-
-_deps/sfml-src/include/SFML/Window/Keyboard.hpp:
-
-/usr/include/c++/11/cwctype:
-
 /usr/include/c++/11/cstdio:
 
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
@@ -1811,6 +1756,12 @@ _deps/sfml-src/include/SFML/Config.hpp:
 /usr/include/c++/11/bits/streambuf_iterator.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h:
+
+_deps/sfml-src/include/SFML/Window/WindowHandle.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
+
+/usr/include/c++/11/bits/locale_facets.tcc:
 
 _deps/sfml-src/include/SFML/System/FileInputStream.hpp:
 
@@ -1895,3 +1846,17 @@ _deps/sfml-src/include/SFML/System/Vector2.inl:
 _deps/sfml-src/include/SFML/System/Vector3.hpp:
 
 _deps/sfml-src/include/SFML/Window/Export.hpp:
+
+_deps/sfml-src/include/SFML/Window/GlResource.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+_deps/sfml-src/include/SFML/Window/Cursor.hpp:
+
+_deps/sfml-src/include/SFML/Window/Joystick.hpp:
+
+/usr/include/c++/11/cwctype:
+
+_deps/sfml-src/include/SFML/Window/Keyboard.hpp:
+
+_deps/sfml-src/include/SFML/Window/Mouse.hpp:

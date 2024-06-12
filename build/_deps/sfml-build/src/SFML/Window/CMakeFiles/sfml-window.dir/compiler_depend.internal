@@ -74,7 +74,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -82,9 +81,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -145,7 +142,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -186,8 +182,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -295,7 +289,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -303,9 +296,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl
 
@@ -352,7 +343,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -418,7 +408,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -426,9 +415,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl
  /home/lenny/projects/aurora/build/_deps/sfml-src/include/SFML/System/Mutex.hpp
@@ -449,7 +436,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/exception
  /usr/include/c++/11/bits/exception.h
  /usr/include/c++/11/bits/exception_ptr.h
@@ -532,8 +518,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -599,8 +583,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
  /usr/include/c++/11/cstring
  /usr/include/string.h
  /usr/include/strings.h
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h
  /usr/include/c++/11/cassert
  /usr/include/assert.h
  /home/lenny/projects/aurora/build/_deps/sfml-src/src/SFML/Window/Unix/GlxContext.hpp
@@ -699,7 +681,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -707,9 +688,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -770,7 +749,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -811,8 +789,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -957,7 +933,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -965,9 +940,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -1028,7 +1001,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -1069,8 +1041,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -1218,7 +1188,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -1226,9 +1195,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -1289,7 +1256,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -1330,8 +1296,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -1487,7 +1451,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -1495,9 +1458,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -1540,7 +1501,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -1578,8 +1538,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -1686,7 +1644,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/exception
  /usr/include/c++/11/bits/exception.h
  /usr/include/c++/11/bits/exception_ptr.h
@@ -1792,11 +1749,8 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
  /usr/include/x86_64-linux-gnu/sys/select.h
  /usr/include/x86_64-linux-gnu/bits/select.h
  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/cstdio
  /usr/include/stdio.h
@@ -1805,8 +1759,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -1920,7 +1872,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.c
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -1928,9 +1879,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.c
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -1991,7 +1940,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.c
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -2032,8 +1980,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.c
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -2136,7 +2082,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -2187,7 +2132,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cstdint
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h
  /usr/include/stdint.h
@@ -2243,9 +2187,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.
  /usr/include/x86_64-linux-gnu/bits/waitflags.h
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/cstdio
  /usr/include/stdio.h
@@ -2254,8 +2196,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -2318,7 +2258,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/exception
  /usr/include/c++/11/bits/exception.h
  /usr/include/c++/11/bits/exception_ptr.h
@@ -2424,11 +2363,8 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o
  /usr/include/x86_64-linux-gnu/sys/select.h
  /usr/include/x86_64-linux-gnu/bits/select.h
  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/cstdio
  /usr/include/stdio.h
@@ -2437,8 +2373,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -2567,7 +2501,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -2575,9 +2508,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -2638,7 +2569,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -2679,8 +2609,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -2812,8 +2740,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.
  /usr/include/c++/11/stdlib.h
  /usr/include/string.h
  /usr/include/strings.h
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h
  /usr/include/dlfcn.h
  /usr/include/x86_64-linux-gnu/bits/dlfcn.h
  /usr/include/x86_64-linux-gnu/bits/dl_find_object.h
@@ -2926,7 +2852,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -2934,9 +2859,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -2979,7 +2902,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -3017,8 +2939,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -3147,7 +3067,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cp
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -3155,9 +3074,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cp
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -3218,7 +3135,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cp
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -3259,8 +3175,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cp
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -3340,14 +3254,12 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cp
  /usr/include/poll.h
  /usr/include/x86_64-linux-gnu/sys/poll.h
  /usr/include/x86_64-linux-gnu/bits/poll.h
- /usr/include/x86_64-linux-gnu/bits/poll2.h
  /usr/include/unistd.h
  /usr/include/x86_64-linux-gnu/bits/posix_opt.h
  /usr/include/x86_64-linux-gnu/bits/environments.h
  /usr/include/x86_64-linux-gnu/bits/confname.h
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h
- /usr/include/x86_64-linux-gnu/bits/unistd.h
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h
  /usr/include/linux/close_range.h
  /usr/include/fcntl.h
@@ -3357,12 +3269,9 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cp
  /usr/include/linux/falloc.h
  /usr/include/x86_64-linux-gnu/bits/stat.h
  /usr/include/x86_64-linux-gnu/bits/struct_stat.h
- /usr/include/x86_64-linux-gnu/bits/fcntl2.h
  /usr/include/c++/11/cstring
  /usr/include/string.h
  /usr/include/strings.h
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToKeyMapping.cpp.o
  /home/lenny/projects/aurora/build/_deps/sfml-src/src/SFML/Window/Unix/KeySymToKeyMapping.cpp
@@ -3419,7 +3328,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cp
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -3470,7 +3378,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cp
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cstdint
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h
  /usr/include/stdint.h
@@ -3526,9 +3433,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cp
  /usr/include/x86_64-linux-gnu/bits/waitflags.h
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/cstdio
  /usr/include/stdio.h
@@ -3537,8 +3442,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cp
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -3627,8 +3530,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cp
  /usr/include/c++/11/cstring
  /usr/include/string.h
  /usr/include/strings.h
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h
  /usr/include/c++/11/map
  /usr/include/c++/11/bits/stl_tree.h
  /usr/include/c++/11/bits/stl_map.h
@@ -3724,7 +3625,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.c
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -3752,7 +3652,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.c
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cstdint
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h
  /usr/include/stdint.h
@@ -3796,9 +3695,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.c
  /usr/include/x86_64-linux-gnu/bits/waitflags.h
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/cstdio
  /usr/include/stdio.h
@@ -3807,8 +3704,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.c
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -3965,7 +3860,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.c
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -3991,7 +3885,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.c
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cstdint
  /usr/include/c++/11/bits/localefwd.h
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h
@@ -4032,9 +3925,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.c
  /usr/include/x86_64-linux-gnu/bits/waitflags.h
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/cstdio
  /usr/include/stdio.h
@@ -4043,8 +3934,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.c
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -4078,8 +3967,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.c
  /usr/include/c++/11/cstring
  /usr/include/string.h
  /usr/include/strings.h
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.cpp.o
  /home/lenny/projects/aurora/build/_deps/sfml-src/src/SFML/Window/Unix/WindowImplX11.cpp
@@ -4156,7 +4043,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -4164,9 +4050,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -4227,7 +4111,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -4268,8 +4151,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -4405,8 +4286,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/X11/Xfuncs.h
  /usr/include/string.h
  /usr/include/strings.h
- /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
- /usr/include/x86_64-linux-gnu/bits/string_fortified.h
  /usr/include/c++/11/stdlib.h
  /usr/include/X11/Xatom.h
  /usr/include/x86_64-linux-gnu/sys/stat.h
@@ -4423,7 +4302,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/x86_64-linux-gnu/bits/confname.h
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h
- /usr/include/x86_64-linux-gnu/bits/unistd.h
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h
  /usr/include/linux/close_range.h
  /usr/include/libgen.h
@@ -4432,7 +4310,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.c
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h
  /usr/include/linux/falloc.h
- /usr/include/x86_64-linux-gnu/bits/fcntl2.h
  /usr/include/c++/11/cstring
  /usr/include/c++/11/cassert
  /usr/include/assert.h
@@ -4531,7 +4408,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -4539,9 +4415,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -4743,7 +4617,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -4751,9 +4624,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -4796,7 +4667,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -4834,8 +4704,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -5043,7 +4911,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -5051,9 +4918,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -5096,7 +4961,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -5134,8 +4998,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h
@@ -5311,7 +5173,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
- /usr/include/x86_64-linux-gnu/bits/select2.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
@@ -5319,9 +5180,7 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
  /usr/include/alloca.h
- /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
- /usr/include/x86_64-linux-gnu/bits/stdlib.h
  /usr/include/c++/11/bits/std_abs.h
  /usr/include/c++/11/bits/algorithmfwd.h
  /usr/include/c++/11/bits/stl_heap.h
@@ -5382,7 +5241,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h
- /usr/include/x86_64-linux-gnu/bits/wchar2.h
  /usr/include/c++/11/cctype
  /usr/include/ctype.h
  /usr/include/c++/11/bits/locale_classes.h
@@ -5423,8 +5281,6 @@ _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
- /usr/include/x86_64-linux-gnu/bits/stdio.h
- /usr/include/x86_64-linux-gnu/bits/stdio2.h
  /usr/include/c++/11/cerrno
  /usr/include/errno.h
  /usr/include/x86_64-linux-gnu/bits/errno.h

@@ -20,7 +20,8 @@ class GameObject{
 
         virtual void render();
 
-        void initGameObjects();
+        static void initGameObjects();
 
-        static void addGameObject(GameObject gameObject);
+        static void renderGameObjects();
+
 };

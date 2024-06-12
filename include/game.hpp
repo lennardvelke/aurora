@@ -10,6 +10,6 @@ class Game {
 
         int exitGame();
         
-        sf::Window window;
+        static sf::Window window;
     private:
 };

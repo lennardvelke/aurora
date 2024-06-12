@@ -525,44 +525,44 @@ sfml__window_OBJECTS = \
 # External object files for target sfml-window
 sfml__window_EXTERNAL_OBJECTS =
 
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToKeyMapping.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToUnicodeMapping.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/SensorImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cpp.o
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make
-_deps/sfml-build/lib/libsfml-window-s.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Linking CXX static library ../../../lib/libsfml-window-s.a"
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToKeyMapping.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToUnicodeMapping.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/SensorImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cpp.o
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/build.make
+_deps/sfml-build/lib/libsfml-window-s-d.a: _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lenny/projects/aurora/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Linking CXX static library ../../../lib/libsfml-window-s-d.a"
 	cd /home/lenny/projects/aurora/build/_deps/sfml-build/src/SFML/Window && $(CMAKE_COMMAND) -P CMakeFiles/sfml-window.dir/cmake_clean_target.cmake
 	cd /home/lenny/projects/aurora/build/_deps/sfml-build/src/SFML/Window && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sfml-window.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/build: _deps/sfml-build/lib/libsfml-window-s.a
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/build: _deps/sfml-build/lib/libsfml-window-s-d.a
 .PHONY : _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/build
 
 _deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/clean:

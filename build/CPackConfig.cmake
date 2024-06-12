@@ -45,7 +45,7 @@ set(CPACK_OUTPUT_CONFIG_FILE "/home/lenny/projects/aurora/build/CPackConfig.cmak
 set(CPACK_PACKAGE_DEFAULT_LOCATION "/")
 set(CPACK_PACKAGE_DESCRIPTION_FILE "/usr/share/cmake-3.22/Templates/CPack.GenericDescription.txt")
 set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Aurora built using CMake")
-set(CPACK_PACKAGE_FILE_NAME "SFML-2.6.1-GNU-11.4.0-Release")
+set(CPACK_PACKAGE_FILE_NAME "SFML-2.6.1-GNU-11.4.0-Debug")
 set(CPACK_PACKAGE_INSTALL_DIRECTORY "SFML 2.6.1")
 set(CPACK_PACKAGE_INSTALL_REGISTRY_KEY "SFML 2.6.1")
 set(CPACK_PACKAGE_NAME "Aurora")
