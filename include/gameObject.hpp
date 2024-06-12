@@ -18,10 +18,10 @@ class GameObject{
 
         virtual void update();
 
-        virtual void render();
+        virtual void render(sf::RenderWindow& window);
 
         static void initGameObjects();
 
-        static void renderGameObjects();
+        static void renderGameObjects(sf::RenderWindow& window);
 
 };

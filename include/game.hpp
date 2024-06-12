@@ -2,6 +2,10 @@
 
 class Game {
     public:
+        Game();
+        
+        sf::RenderWindow window;
+
         int initGame();
 
         int updateGame();
@@ -10,6 +14,7 @@ class Game {
 
         int exitGame();
         
-        static sf::Window window;
+
+        sf::RenderWindow& getWindow();
     private:
 };

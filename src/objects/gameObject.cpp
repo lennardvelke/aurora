@@ -19,7 +19,7 @@ void GameObject::update()
     
 }
 
-void GameObject::render()
+void GameObject::render(sf::RenderWindow& window)
 {
     sf::RectangleShape shape(sf::Vector2f(32, 32));
     //Game::window.draw(shape);
@@ -33,9 +33,9 @@ void GameObject::initGameObjects()
     }
 }
 
-void GameObject::renderGameObjects()
+void GameObject::renderGameObjects(sf::RenderWindow& window)
 {
     for(GameObject* gameObject : GameObject::gameObjects){
-        gameObject->render();
+        gameObject->render(window);
     }
 }

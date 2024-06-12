@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <SFML/Graphics.hpp>
-#include "../include/game.hpp"
 #include "player.hpp"
+#include "game.hpp"
+
+Game::Game(){
+    getWindow().create({1280u, 720u}, "Aurora");
+}
 
 int Game::initGame(){
-    
-    window.create(sf::VideoMode(1280, 720), "Aurora" );
-    Game::window.setVerticalSyncEnabled(false);
 
     printf("Game successfully created! \n");
     
@@ -23,20 +24,20 @@ int Game::updateGame()
 {
     
     sf::Event event;
-        while (Game::window.pollEvent(event))
+        while (window.pollEvent(event))
         {
             // "close requested" event: we close the window
             if (event.type == sf::Event::Closed)
-                Game::window.close();
+                window.close();
         }
     
-    GameObject::renderGameObjects();
-    Game::window.display();
+    window.display();
     return 0;
 }
 
 int Game::renderGame()
 {
+    GameObject::renderGameObjects(getWindow());
     
     return 0;
 }
@@ -46,4 +47,9 @@ int Game::exitGame()
     printf("Game successfully closed! \n");
 
     return 0;
+}
+
+sf::RenderWindow& Game::getWindow()
+{
+    return window;
 }
