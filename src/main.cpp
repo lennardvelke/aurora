@@ -1,20 +1,18 @@
-#include <SFML/Graphics.hpp>
-#include "../include/game.hpp"
-int main()
+#include "raylib.h"
+
+int main(void)
 {
-    Game game;
-    
+    InitWindow(800, 450, "raylib [core] example - basic window");
 
-    game.initGame();
-
-    while (game.window.isOpen())
+    while (!WindowShouldClose())
     {
-        game.updateGame();
-        
-        game.renderGame();
+        BeginDrawing();
+            ClearBackground(RAYWHITE);
+            DrawText("Congrats! You created your first window!", 190, 200, 20, LIGHTGRAY);
+        EndDrawing();
     }
 
-    game.exitGame();
-    
+    CloseWindow();
+
     return 0;
 }
